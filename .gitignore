@@ -1,0 +1,7 @@
+/.vscode
+/target
+
+# keys
+kraken_futures_key.json
+kraken_spot_key.json
+kraken_futures_trades.csv
